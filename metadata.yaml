@@ -11,6 +11,9 @@ contributor:
     deathdate: 1985
     gutenberg_agent_id: '26735'
     url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 72149-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Robert F.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25767
     wikipedia: https://en.wikipedia.org/wiki/Robert_F._Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72149#The-blonde-from-Barsoom
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72149'
